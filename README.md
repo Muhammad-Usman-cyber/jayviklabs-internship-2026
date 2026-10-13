@@ -25,7 +25,7 @@ I'll organize the repository into three monthly sections, with separate folders 
 
 | Period | Progress |
 |---|---|
-| Month 1 | Not started |
+| Month 1 | In Progress |
 | Month 2 | Not started |
 | Month 3 | Not started |
 
