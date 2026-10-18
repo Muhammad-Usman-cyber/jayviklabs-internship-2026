@@ -6,11 +6,11 @@ This folder is for my first week's work at Jayvik Labs. I'll use it to keep trac
 
 | Day | Task | Status |
 |---|---|---|
-| Day 01 | To be added | Not started |
-| Day 02 | To be added | Not started |
-| Day 03 | To be added | Not started |
-| Day 04 | To be added | Not started |
-| Day 05 | To be added | Not started |
+| Day 01 | Cybersecurity Roadmap & Risk Assessment | Completed |
+| Day 02 | Networking Fundamentals | Completed |
+| Day 03 | Network Interfaces | Completed |
+| Day 04 | TCP/IP and OSI Models | Completed |
+| Day 05 | Ethernet and MAC Addresses | Completed |
 | Day 06 | To be added | Not started |
 | Day 07 | To be added | Not started |
 
