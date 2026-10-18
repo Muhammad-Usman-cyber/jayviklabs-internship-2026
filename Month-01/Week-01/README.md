@@ -11,7 +11,7 @@ This folder is for my first week's work at Jayvik Labs. I'll use it to keep trac
 | Day 03 | Network Interfaces | Completed |
 | Day 04 | TCP/IP and OSI Models | Completed |
 | Day 05 | Ethernet and MAC Addresses | Completed |
-| Day 06 | To be added | Not started |
-| Day 07 | To be added | Not started |
+| Day 06 | IPv4 Addressing | Completed |
+| Day 07 | IP Configuration | Completed |
 
 I'll update this page as I work through the week's assignments.
